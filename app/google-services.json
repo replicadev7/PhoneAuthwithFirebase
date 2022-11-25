@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737857846808",
+    "project_id": "fir-otpverification-3614f",
+    "storage_bucket": "fir-otpverification-3614f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737857846808:android:af433fb5db6aa5fea68d6d",
+        "android_client_info": {
+          "package_name": "com.rahul.otpverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737857846808-5nc4uv18oqpkuh3nhpjl0jctqprq8vsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwvGkQZpm-__AXTPqo6cWNl1n3GhgJXm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737857846808-5nc4uv18oqpkuh3nhpjl0jctqprq8vsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
